@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ProjetoAeronave</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_voo_nome">Informações Voo.</string>
+    <string name="label_voo_preco">Preço: </string>
+    <string name="label_voo_origem">Origem: </string>
+    <string name="label_voo_destino">Destino: </string>
+    <string name="label_voo_horario">Horario: </string>
+    <string name="botao_enviar">Consultar Simples</string>
+    <string name="botao_enviar_melhor">Consultar Melhor</string>
+
+
+    <string name="button_send">Enviar</string>
+
+    <string-array name="origem">
+        <item>Escolha Origem do Voo</item>
+        <item>Congonhas</item>
+        <item>Minas Gerais</item>
+        <item>Espirito Santo</item>
+        <item>Bahia</item>
+        <item>Pernambuco</item>
+        <item>Brasilia</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>Escolha Destino do Voo</item>
+        <item>Rio de Janeiro</item>
+        <item>Minas Gerais</item>
+        <item>Espirito Santo</item>
+        <item>Bahia</item>
+        <item>Pernambuco</item>
+        <item>Brasilia</item>
+    </string-array>
+
+
+    <string-array name="horarios">
+        <item>13/09 14:00</item>
+        <item>13/09 16:00</item>
+        <item>13/09 18:00</item>
+        <item>14/09 14:00</item>
+        <item>14/09 16:00</item>
+        <item>14/09 18:00</item>
+
+    </string-array>
+
+    <string name="title_activity_lista_voo">Lista Simples</string>
+    <string name="title_activity_lista_voo_completo">Lista Completa</string>
+    <string name="title_activity_detalhes_voo">Detalhes do Voo</string>
+
+
+</resources>
